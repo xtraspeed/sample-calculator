@@ -15,7 +15,7 @@ print (add(3,4))
 
 # Other Code
 
-# For subraction
+# For subtraction
 print (subtract(3,4))
 ```
 
